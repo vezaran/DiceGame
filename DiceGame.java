@@ -53,5 +53,3 @@ public class DiceGame {
     dice2 = Math.floor((Math.random() * 5) + 1);
     return Math.floor(dice1 + dice2);
   }
-  
-
